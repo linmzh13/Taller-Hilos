@@ -1,4 +1,5 @@
 # Taller Hilos
+## Integrantes: Lineth Paola Márquez Hernández y Jair Santiago Garzón Arias.
 
 ## Estructura del Proyecto
 
